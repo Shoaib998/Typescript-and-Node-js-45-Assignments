@@ -106,3 +106,14 @@ console.log(13 - 5);
 console.log(4 * 2);
 console.log(16 / 2);
 
+Task No.09
+
+
+// 9. Favorite Number: Store your favorite number in a variable.
+// Then, using that variable, create a message that reveals your favorite number. Print that message.
+
+const favorite_Number: number = 998;
+const messages: string = `My Favorite Number is ${favorite_Number}`;
+console.log(messages);
+
+
