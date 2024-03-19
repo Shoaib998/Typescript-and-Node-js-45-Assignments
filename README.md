@@ -162,5 +162,19 @@ for (let i = 0; i < friend_Name.length; i++) {
   console.log(`Hello ${friend_Name[i]} how are you brother`);
 }
 
+Task No.13
+
+
+// 13. Your Own Array: Think of your favorite mode of transportation, such as a motorcycle or a car, and make
+//  a list that stores several examples. Use your list
+// to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
+
+let my_FavTrans = ["Car", "Bike", "Bus", "Train"];
+
+for (let i = 0; i < my_FavTrans.length; i++) {
+  console.log(`I would Like to buy a ${my_FavTrans[i]}`);
+}
+
+
 
 
