@@ -130,4 +130,17 @@ const num2: number = 7;
 // this will add the num1 and num2 (this is comment in typescript)
 console.log(num1 + num2);
 
+Task No.11
+
+
+// 11. Names: Store the names of a few of your friends in a
+//  array called names. Print each person’s name by accessing each element in the list, one at a time.
+
+let friend_Name = ["Sultan", "Hashir", "Arsalan", "Asad", "Shehryar"];
+
+for (let i = 0; i < friend_Name.length; i++) {
+  console.log(`${friend_Name[i]}\n`);
+}
+
+
 
