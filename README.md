@@ -38,3 +38,13 @@ let rest_Letter: string = person_Name.slice(1).toLowerCase();
 let titleCase = first_Letter  + rest_Letter;
 
 console.log("titleCase",titleCase);
+
+Task No.04
+
+// 4. Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author.
+// Your output should look something like the
+// following, including the quotation marks:
+
+const Quote: string = ` Albert Einstein once said, “A person who never made a mistake never tried anything new.”`;
+
+console.log(Quote);
